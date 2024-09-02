@@ -4,8 +4,8 @@
   
 ## Implementação do Algoritmo do clique e do algoritmo guloso
 
-• Implemente um algoritmo guloso para o problema do Clique;
-• Dataset disponível em: https://www.kaggle.com/datasets/thoughtvector/customersupport-on-twitter . 
+* Implemente um algoritmo guloso para o problema do Clique;
+* Dataset disponível em: https://www.kaggle.com/datasets/thoughtvector/customersupport-on-twitter
 * Em seguida, defina conjuntos que deverão ser análisado como cliques, para identificar a relação/conexão entre os tweets;
-• Pesquise e adote um benchmark de grafos para uma avaliação experimental; e
-• Apresente uma análise sobre os resultados encontrados com os algoritmos.
+* Pesquise e adote um benchmark de grafos para uma avaliação experimental;
+* Apresente uma análise sobre os resultados encontrados com os algoritmos.
