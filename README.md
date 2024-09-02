@@ -1,4 +1,4 @@
-# ProjetoFinal de Análise de Algoritmod - 2024 - Natalia Almada e Matheus Melo - Problema do Clique
+# ProjetoFinal de Análise de Algoritmos - 2024 - Natalia Almada e Matheus Melo - Problema do Clique
 ## Análise e descrição do  artigo - Finding All Maximal Connected s-Cliques in Social Networks,
 * Disponível em: https://openproceedings.org/2018/conf/edbt/paper-28.pdf
   
