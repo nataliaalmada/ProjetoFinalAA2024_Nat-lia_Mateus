@@ -19,9 +19,9 @@
 
 | Dias           | Atividade                                             | Meta                            | Status    |
 |----------------|-------------------------------------------------------|----------------------------------|-----------|
-| 11-12/09/2024  | Análise do artigo e estudo do problema do Clique       | Entendimento completo do problema | [x]    |
-| 13-15/09/2024  | Implementação do algoritmo guloso e envio para o GitHub com o README | Protótipo funcional do algoritmo | [Fazendo]   |
-| 16-17/09/2024  | Integração do dataset do Kaggle e definição dos cliques + pull no GitHub | Dados prontos para análise       | [Fazendo]  |
-| 18-19/09/2024  | Pesquisa e adoção de benchmark de grafos               | Benchmark escolhido e configurado | []   |
-| 20-21/09/2024  | Avaliação experimental e coleta de resultados          | Resultados obtidos               | []   |
-| 22/09/2024     | Análise e documentação dos resultados                  | Relatório final                  | []   |
+| 11-12/09/2024  | Análise do artigo e estudo do problema do Clique       | Entendimento completo do problema | Feito     |
+| 13-15/09/2024  | Implementação do algoritmo guloso e envio para o GitHub com o README | Protótipo funcional do algoritmo | Fazendo   |
+| 16-17/09/2024  | Integração do dataset do Kaggle e definição dos cliques + pull no GitHub | Dados prontos para análise       | Fazendo   |
+| 18-19/09/2024  | Pesquisa e adoção de benchmark de grafos               | Benchmark escolhido e configurado | Fazendo   |
+| 20-21/09/2024  | Avaliação experimental e coleta de resultados          | Resultados obtidos               | A fazer   |
+| 22/09/2024     | Análise e documentação dos resultados                  | Relatório final                  | A fazer   |
