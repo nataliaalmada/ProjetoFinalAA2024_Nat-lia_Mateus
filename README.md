@@ -40,10 +40,9 @@ A [apresentação] do nosso grupo contempla o seguintes tópicos acerca do algor
 
 ## Cálculos de Custo e Complexidade
 
-- [](./);
-    - Melhor Caso: $T(n) = 
-    - Caso Médio: $T(n) = 
-    - Pior Caso: $T(n) = 
+- Melhor Caso: $T(n) = 
+- Caso Médio: $T(n) = 
+- Pior Caso: $T(n) = 
 
 
 ## Resultados
@@ -61,11 +60,13 @@ Assista [esse vídeo](.).
 
 ## Objetivos
 
+- [X] Análise Do Artigo;
 - [ ] Função de Custo e Complexidade;
 - [ ] Código em C do algoritmo proposto;
 - [ ] Experimentação com a execução do algoritmo com diferentes entradas e coleta de tempo de execução;
 - [ ] Gráfico de linha com o tempo de execução em relação a cada entrada e análise da tendência de comportamento assintótico;
-- [ ] Apresentar um algoritmo que seja mais eficiente, em termos de complexidade, do que o algoritmo analisado.
+- [ ] Relatório do Projeto em frmato de Artigo;
+- [ ] Apresentar o algoritmo, mostrando sua eficiência, em termos de complexidade.
 
 ## Considerações
 
