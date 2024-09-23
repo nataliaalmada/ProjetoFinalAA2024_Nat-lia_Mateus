@@ -1,0 +1,74 @@
+teste 1
+
+C125.9
+Graph with 125 nodes, 6 963 edges, and ω(G)34*.Best-known solution hassize 34.
+Available in DIMACS ascii format, or DIMACS binary format.
+
+Tempo total Clique: 0.000072 seg
+Clique maximo encontrado = 26.
+
+-------------------------------------------------------------------------
+
+teste 2
+
+C500.9
+Graph with 500 nodes, 112 332 edges, and ω(G)≥ 57.Best-known solution hassize 57.
+Available in DIMACS ascii format, or DIMACS binary format.
+
+Tempo total Clique: 0.000834 seg
+Clique maximo encontrado = 33.
+
+
+-----------------------------------------------------------------------------
+
+teste 3
+
+brock200_2
+Graph with 200 nodes, 9 876 edges, and ω(G)= 12.Best-known solution hassize 12.
+Available in DIMACS ascii format, or DIMACS binary format.
+
+        Clique maximo encontrado = 8
+        Tempo total Clique: 0.000357 seg
+
+
+
+
+teste 4
+
+brock200_4
+Graph with 200 nodes, 13 089 edges, and ω(G)= 17.Best-known solution hassize 17.
+Available in DIMACS ascii format, or DIMACS binary format.
+
+
+Tempo total Clique: 0.000404 seg
+        Clique maximo encontrado = 12
+
+teste 5
+
+brock800_2
+Graph with 800 nodes, 208 166 edges, and ω(G)= 24.Best-known solution hassize 24.
+Available in DIMACS ascii format, or DIMACS binary format.
+
+        Clique maximo encontrado = 14.
+        Tempo total Clique: 0.004152 seg
+
+
+teste 6
+
+gen200_p0.9_44
+Graph with 200 nodes, 17 910 edges, and ω(G)= 44.Best-known solution hassize 44.
+Available in DIMACS ascii format, or DIMACS binary format.
+
+Tempo total Clique: 0.000232 seg
+Clique maximo encontrado = 30.
+
+teste 7
+
+
+gen400_p0.9_55
+Graph with 400 nodes, 71 820 edges, and ω(G)= 55.Best-known solution hassize 55.
+Available in DIMACS ascii format, or DIMACS binary format.
+
+Tempo total Clique: 0.000523 seg
+Clique maximo encontrado = 39.
+
