@@ -21,54 +21,40 @@
 | 13-15/09/2024  | Implementação do algoritmo guloso e envio para o GitHub com o README | Protótipo funcional do algoritmo | Feito   |
 | 16-17/09/2024  | Integração do dataset do Kaggle e definição dos cliques + pull no GitHub | Dados prontos para análise       | Feito   |
 | 18-19/09/2024  | Pesquisa e adoção de benchmark de grafos               | Benchmark escolhido e configurado | Feito   |
-| 20-21/09/2024  | Avaliação experimental e coleta de resultados          | Resultados obtidos               | Fazendo |
-| 22/09/2024     | Análise e documentação dos resultados                  | Relatório final                  | Fazendo   |
+| 20-21/09/2024  | Avaliação experimental e coleta de resultados          | Resultados obtidos               | Feito |
+| 22/09/2024     | Análise e documentação dos resultados                  | Relatório final                  | Feito   |
 
 
 
 ## Conteúdo
-A [apresentação] do nosso grupo contempla o seguintes tópicos acerca do algoritmo `Problema do Clique`:
-
-- [Função de custo e complexidade]();
-- [Código da implementação em C]();
+A apresentação do nosso grupo contempla o seguintes tópicos acerca do algoritmo `Problema do Clique`:
+https://github.com/nataliaalmada/ProjetoFinalAA2024_Natalia_Matheus/blob/main/Semin%C3%A1rio%20an%C3%A1lise%20de%20Algoritmos-Clique-1.pdf
+- Custo e complexidade;
+- Código da implementação em C();
 - Experimentação da execução do algoritmo com diferentes entradas;
-    - [Entradas utilizadas](.);
-    - [Algoritmo de benchmark](.;
-- [Gráfico de linha com o tempo de execução do algoritmo e análise da tendência de comportamento assintótico](#resultados);
-    - [Algoritmo de plot do gráfico](.);
-- [Vídeo de visualização dos algoritmos]();
+    - Benchmark:https://iridia.ulb.ac.be/~fmascia/maximum_clique/
+- Gráfico de linha com quantidade de vertices de cada resultado e
+- Tempo de execução;
+    - Algoritmo de plot do gráfico
 
-## Cálculos de Custo e Complexidade
+##  Custo e Complexidade
 
-- Melhor Caso: $T(n) = 
-- Caso Médio: $T(n) = 
-- Pior Caso: $T(n) = 
+-O(n2)
 
 
 ## Resultados
 
-Conseguimos observar que o `Problema do Clique` possui uma complexidade de $`x`$ para seus piores casos  e de $`y`$ para seu caso médio[...]
+Conseguimos observar que o `Problema do Clique` possui uma complexidade de O(n2) para seus piores casos  
 <div align="center">
 
-![Gráfico para Comparação](.)
-
-</div>
-
-## Comparação Visual dos Algoritmos
-
-Assista [esse vídeo](.).
 
 ## Objetivos
 
 - [X] Análise Do Artigo;
-- [ ] Função de Custo e Complexidade;
-- [ ] Código em C do algoritmo proposto;
-- [ ] Experimentação com a execução do algoritmo com diferentes entradas e coleta de tempo de execução;
-- [ ] Gráfico de linha com o tempo de execução em relação a cada entrada e análise da tendência de comportamento assintótico;
-- [ ] Relatório do Projeto em frmato de Artigo;
-- [ ] Apresentar o algoritmo, mostrando sua eficiência, em termos de complexidade.
-
-## Considerações
-
-## Referências
+- [X] Custo e Complexidade;
+- [X] Código em C do algoritmo proposto;
+- [X] Experimentação com a execução do algoritmo com diferentes entradas e coleta de tempo de execução;
+- [X] Gráfico de linha com o tempo de execução em relação a cada entrada e análise da tendência de comportamento assintótico;
+- [X] Relatório do Projeto em formato de Artigo;
+- [X] Apresentar o algoritmo, mostrando sua eficiência, em termos de complexidade.
 
