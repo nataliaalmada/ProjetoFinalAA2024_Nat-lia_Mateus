@@ -13,6 +13,8 @@
 * Em seguida, defina conjuntos que deverão ser análisado como cliques, para identificar a relação/conexão entre os tweets;
 * Pesquise e adote um benchmark de grafos para uma avaliação experimental;
 * Apresente uma análise sobre os resultados encontrados com os algoritmos.
+### Relatório: 
+https://github.com/nataliaalmada/ProjetoFinalAA2024_Natalia_Matheus/blob/main/Relat%C3%B3rio%20Natalia%20e%20Matheus%20Formato%20IEEE.pdf
   
 ## Cronograma
 | Dias           | Atividade                                             | Meta                            | Status    |
