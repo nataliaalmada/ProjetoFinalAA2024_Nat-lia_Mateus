@@ -51,6 +51,18 @@ Conseguimos observar que o `Problema do Clique` possui uma complexidade de O(n2)
 
 ### Atualizações após Apresentação
 A pedido do professor, gráficos gerados: 
+# Meu Projeto
+
+## Gráficos de Desempenho
+
+### Gráfico 1 - Tempo de execução para cada teste
+![Gráfico 1 - Tempo de execução para cada teste](https://github.com/nataliaalmada/ProjetoFinalAA2024_Natalia_Matheus/blob/main/mediaGraficosBenchmark-artefatos/Grafico%201.jpeg)
+
+### Gráfico 2 - Precisão do clique encontrado vs melhor solução
+![Gráfico 2 - Precisão do clique encontrado vs melhor solução](https://github.com/nataliaalmada/ProjetoFinalAA2024_Natalia_Matheus/blob/main/mediaGraficosBenchmark-artefatos/Grafico%202.jpeg)
+
+### Gráfico 3 - Clique máximo encontrado vs melhor solução conhecida
+![Gráfico 3 - Clique máximo encontrado vs melhor solução conhecida](https://github.com/nataliaalmada/ProjetoFinalAA2024_Natalia_Matheus/blob/main/mediaGraficosBenchmark-artefatos/Grafico%203.jpeg)
 
 
 ## Objetivos
