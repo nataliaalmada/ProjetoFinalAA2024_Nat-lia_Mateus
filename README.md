@@ -51,7 +51,6 @@ Conseguimos observar que o `Problema do Clique` possui uma complexidade de O(n2)
 
 ### Atualizações após Apresentação
 A pedido do professor, gráficos gerados: 
-# Meu Projeto
 
 ## Gráficos de Desempenho
 
