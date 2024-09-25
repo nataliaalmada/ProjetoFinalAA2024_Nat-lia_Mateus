@@ -49,6 +49,9 @@ https://github.com/nataliaalmada/ProjetoFinalAA2024_Natalia_Matheus/blob/main/Se
 Conseguimos observar que o `Problema do Clique` possui uma complexidade de O(n2) para seus piores casos  
 <div align="center">
 
+### Atualizações após Apresentação
+A pedido do professor, gráficos gerados: 
+
 
 ## Objetivos
 
