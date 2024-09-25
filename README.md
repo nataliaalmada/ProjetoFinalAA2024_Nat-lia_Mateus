@@ -41,7 +41,8 @@ https://github.com/nataliaalmada/ProjetoFinalAA2024_Natalia_Matheus/blob/main/Se
 
 ##  Custo e Complexidade
 
--O(n2)
+`O(n²)`
+
 
 
 ## Resultados
